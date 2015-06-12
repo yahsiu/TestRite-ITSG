@@ -16,7 +16,7 @@ Info Technology Study Group
 | 6  	| Louise | PET-SALON 	| https://github.com/Louise614/pet-salon |
 | 7  	| Ken  	| Warehouse Monitor	|https://github.com/ken1106/TestRite-WM  	|
 | 8  	| Lewis	| Server-Status-Monitor | https://github.com/borak0310/Server-Status-Monitor |
-| 9  	|   	|   	|  	|
+| 9  	| Yahsiu | Ballot	| https://github.com/yahsiu/ballot	|
 | 10	|   	|   	|  	|
 | 11	|   	|   	|  	|
 | 12 	|   	|   	|  	|
